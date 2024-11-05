@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: black;
+}
+.Logo {
+    height: 80px;
+    margin-left: 50px;
+}
+nav  ul li {
+    color: white;
+    padding-left: 50px;
+    display: inline-block;
+    margin-left: 40px;
+}
+nav img {
+    margin-bottom: -35px;
+    margin-left: 30px;
+    margin-right: 250px;
+}
+.Promotion {
+    background-color: tomato;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btn {
+    color: white;
+    text-decoration: none;
+}
+.btn-1 {
+    color: black;
+    text-decoration: none;
+    background-color: greenyellow;
+    padding: 5px;
+    border-radius: 10px;
+}
+.btn-10 {
+    color: black;
+    text-decoration: none;
+    background-color: greenyellow;
+    margin-left: -20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.popular {
+    font-size: 60px;
+    margin-left: 280px;
+    margin-top: 70px;
+    color: white;
+}
+.cou {
+    height: 250px;
+    width: 350px;
+    margin-left: 40px;
+}
+.card-1 {
+    height: 320px;
+    width: 400px;
+    background-color: darkorange;
+    margin-left: 80px;
+    margin-right: -50px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    padding-top: 10px;
+}
+.Quran-1 {
+    margin-top: -10px;
+    padding-left: 8px;
+    font-size: 35px;
+    padding-top: 20px;
+}
+.photo {
+    height: 250px;
+    width: 400px;
+}
+.Quran-2 {
+    margin-top: -10px;
+    padding-left: 50px;
+    font-size: 35px;
+    padding-top: 20px;
+}
+.card-container-1 {
+    display: flex;
+    margin-left: -60px;
+}
