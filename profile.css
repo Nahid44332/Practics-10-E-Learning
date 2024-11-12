@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body {
+    background: #dfe9f5;
+}
+.container {
+    display: flex;
+}
+nav {
+    position: relative;
+    top: 0;
+    bottom: 0;
+    height: 600px;
+    left: 0;
+    background: #fff;
+    width: 200px;
+    overflow: hidden;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+}
+.logo {
+    text-align: center;
+    display: flex;
+}
+a {
+    position: relative;
+    color: rgb(85, 83, 83);
+    font-size: 14px;
+    display: table;
+    width: 280px;
+    padding: 10px;
+}
+nav .fas {
+    position: relative;
+    width: 70px;
+    height: 40px;
+    top: 3px;
+    font-size: 20px;
+    text-align: center
+}
+.nav-item {
+    position: relative;
+    margin-left: -15px;
+}
+a:hover {
+    background: #eee;
+}
+.nav-item-1 {
+    position: relative;
+    margin-left: -15px;
+    background-color: red;
+    padding: 10px 40px;
+}
+h2 {
+    margin-left: 420px;
+    margin-top: -550px;
+}
+p {
+    margin-left: 360px;
+    margin-top: 10px;
+}
+.profile {
+    height: 630px;
+    width: 400px;
+    background-color: white;
+    margin-left: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.img-2 {
+    margin-left: 150px;
+    margin-top: 20px;
+}
+h3 {
+    margin-left: 130px;
+    margin-top: 10px;
+}
+.User {
+    margin-left: 180px;
+    color: #0097A7;
+}
+.Email {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.form {
+    margin-left: 10px;
+}
+.btn-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #843EB1;
+}
+.btn-2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    background-color: #843EB1;
+}
