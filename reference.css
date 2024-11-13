@@ -57,3 +57,79 @@ a:hover {
     background-color: red;
     padding: 10px 40px;
 }
+h2 {
+    margin-left: 380px;
+    margin-top: -550px;
+}
+h1 {
+    margin-left: 380px;
+    margin-top: 20px;
+}
+.link {
+    margin-left: 300px;
+    margin-right: 500px;
+    margin-top: 80px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid gray;
+}
+.b-11 {
+    margin-left: 900px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 7px;
+    background-color: tomato;
+}
+.btn-1 {
+    margin-top: -35px;
+}
+.table-head {
+    margin-top: 30px;
+}
+.total {
+    margin-left: 380px;
+    margin-top: 20px;
+    padding : 10px 30px;
+    background-color: #00BCD4;
+    color: white;
+    border-radius: 5px;
+}
+.active {
+    margin-left: 30px;
+    margin-top: 20px;
+    padding : 10px 30px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+}
+.inactive {
+    margin-left: 30px;
+    margin-top: 20px;
+    padding : 10px 30px;
+    background-color: #F44336;
+    color: white;
+    border-radius: 5px;
+}
+table {
+    margin-left: 250px;
+    margin-top: 60px;
+
+}
+th {
+    padding: 10px 50px;
+    border: 1px solid gray;
+    border-right: none;
+    border-left: none;
+}
+td {
+    padding: 8px 45px;
+}
+.Green {
+    color: green;
+}
+.red {
+    color: red;
+}
